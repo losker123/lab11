@@ -1,0 +1,100 @@
+[
+    {
+        "id":1,
+        "operation_type": "Установка",
+        "system_type": "Система видеонаблюдения 'SafeWatch 2000'",
+        "date_time": "2023-12-15T10:30:00",
+        
+        "person": {
+            "years_of_experience": 8,
+            "full_name": "Иванов Иван Иванович",
+            "contact_information":"+375445751423",
+            "photo": "https://samara.pozitive.org/images/notebooki/tseni/samara.jpg"
+        },
+        "address": "ул. Пушкина, д. 10, г. Санкт-Петербург"
+    },
+    {
+        "id":2,
+        "operation_type": "Обслуживание",
+        "system_type": "Система обнаружения движения 'SecureSense'",
+        "date_time": "2023-11-20T13:45:00",
+        
+        "person": {
+            "years_of_experience": 5,
+            "full_name": "Петров Петр Петрович",
+            "contact_information":"+375445321421",
+            "photo": "https://kazanpress.ru/upload/iblock/888/888808efe983a07a4c95b77875a36e2f.jpg"
+        },
+        "address": "ул. Пушкина, д. 5, г. Санкт-Петербург"
+    },
+    {
+        "id":3,
+        "operation_type": "Установка",
+        "system_type": "Датчики входа 'GuardianAlert'",
+        "date_time": "2023-10-05T09:00:00",
+        
+        "person": {
+            "years_of_experience": 6,
+            "full_name": "Сидоров Сидор Сидорович",
+            "contact_information":"+375445431411",
+            "photo": "https://static6.vivoo.ru/datas/photos/750x750/5a/aa/05ed10cf2f7481ea7e3b7960e72b.jpg?1"
+        },
+        "address": "ул. Ломоносова, д. 15, г. Екатеринбург"
+    },
+    {
+        "id":4,
+        "operation_type": "Обслуживание",
+        "system_type": "Инновационная Смарт-система 'TechWatch'",
+        "date_time": "2023-09-18T11:00:00",
+        
+        "person": {
+            "years_of_experience": 7,
+            "full_name": "Козлова Анна Владимировна",
+            "contact_information":"+3754443121423",
+            "photo": "http://static10.tgcnt.ru/posts/_0/41/418b9155d9221af02596282d55f96269.jpg"
+        },
+        "address": "ул. Гагарина, д. 7, г. Новосибирск"
+    },
+    {
+        "id":5,
+        "operation_type": "Установка",
+        "system_type": "Камеры безопасности 'SafeGuardian 360'",
+        "date_time": "2023-08-25T14:20:00",
+        
+        "person": {
+            "years_of_experience": 9,
+            "full_name": "Григорьев Григорий Григорьевич",
+            "contact_information":"+375445874323",
+            "photo": "https://met-up.ru/wp-content/uploads/2020/06/getting-started-real-estate-investing-.jpg"
+        },
+        "address": "ул. Гагарина, д. 17, г. Новосибирск"
+    },
+    {
+        "id":6,
+        "operation_type": "Обслуживание",
+        "system_type": "Система контроля доступа 'SentinelPro'",
+        "date_time": "2023-07-10T08:15:00",
+        
+        "person": {
+            "years_of_experience": 4,
+            "full_name": "Федорова Елена Александровна",
+            "contact_information":"+375445752387",
+            "photo": "https://belon.club/uploads/posts/2023-04/1681234855_belon-club-p-sotrudnik-dovolnii-instagram-35.jpg  "
+        },
+        "address": "ул. Пушкинская, д. 3, г. Ростов-на-Дону"
+    },
+    {
+        "id":7,
+        "operation_type": "Установка",
+        "system_type": "Датчики входа 'GuardianAlert'",
+        "date_time": "2023-10-05T09:00:00",
+        
+        "person": {
+            "years_of_experience": 6,
+            "full_name": "Сидоров Сидор Сидорович",
+            "contact_information":"+375445431411",
+            "photo": "https://static6.vivoo.ru/datas/photos/750x750/5a/aa/05ed10cf2f7481ea7e3b7960e72b.jpg?1"
+        },
+        "address": "ул. Пушкина, д. 51 , г. Санкт-Петербург"
+    }
+]

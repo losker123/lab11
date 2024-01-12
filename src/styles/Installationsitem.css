@@ -1,0 +1,130 @@
+
+.installation-item {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .installation-item-type {
+    margin-top: 0;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .installation-item-adress {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .popup-btn {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  .edit-btn {
+    margin-left: 5px;
+    margin-bottom: 8px;
+    
+    padding: 8px 16px;
+    background-color: #adda09;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  .edit-btn2 {
+    margin-top: 5px;
+    padding: 8px 16px;
+    background-color: #adda09;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  .add-btn {
+    margin-left: 23px;
+    margin-bottom: 5px;
+    padding: 8px 16px;
+    background-color: #0b37bb;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  .add-btn2 {
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #0b37bb;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  .delete-btnn {
+    padding: 8px 16px;
+    background-color: #9b1e0e;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .popup-content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .popup-content input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    width: 100%; /* Занимать доступное пространство по ширине */
+    box-sizing: border-box; /* Учесть padding и border в расчетах ширины */
+  }
+  
+  /* Остальные стили оставьте без изменений */
+  
+  .popup-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .popup-content {
+    padding: 20px;
+  }
+  .popup-content p {
+  margin-bottom: 10px;
+}
+
+.popup-content strong {
+  font-weight: bold;
+  color: #333;
+}
+
+.popup-content .contact-info {
+  color: #007bff;
+  font-weight: bold;
+}
+  .installation-image {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  

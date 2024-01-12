@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "SecurityTech Solutions",
+        "description": "Компания SecurityTech Solutions специализируется на разработке инновационных систем безопасности и управления доступом. Мы предоставляем широкий спектр услуг и продуктов для обеспечения безопасности.",
+        "logo": "https://www.prdistribution.com/spirit/uploads/pressreleases/2019/newsreleases/9bc49f99939acc90dffcc3bfa2990e25-securicy-releases-free-solution-for-building-business-resilience-during-covid19.png"
+    },
+    {
+        "id": 2,
+        "name": "Guardian Systems",
+        "description": "Guardian Systems является лидером в области охранной техники и мониторинга  с учетом индивидуальных потребностей каждого клиента. Мы создаем инновационные решения для обеспечения безопасности нашим клиентам.",
+        "logo": "https://irp-cdn.multiscreensite.com/3d5989ed/dms3rep/multi/Guardian+logo+white+background.jpg"
+      },
+     
+      {
+        "id": 3,
+        "name": "SecureTech Innovations",
+        "description": "SecureTech Innovations является ведущим разработчиком программного обеспечения для управления системами безопасности . Мы стремимся обеспечить высочайший уровень защиты и уверенности наших клиентов.",
+        "logo": "https://avatars.mds.yandex.net/i?id=d6dbee11f34ced8a13addb208b7a09f3_sr-5869908-images-thumbs&n=13"
+      }
+    
+  ]
+  

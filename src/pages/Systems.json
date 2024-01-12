@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Система видеонаблюдения 'SafeWatch 2000'",
+      "installation_price": 5000,
+      "maintenance_price": 1000,
+      "description": "SafeWatch 2000 - современная система видеонаблюдения с высоким разрешением, обеспечивающая круглосуточный мониторинг помещений. Легка в установке и обслуживании.",
+      "photo": "https://ic.pics.livejournal.com/findface/78350264/21183/21183_2000.jpg"
+    },
+    {
+      "name": "Система обнаружения движения 'SecureSense'",
+      "installation_price": 4500,
+      "maintenance_price": 900,
+      "description": "Система SecureSense использует передовую технологию обнаружения движения для точного мониторинга и мгновенных оповещений. Эффективный выбор для дома и бизнеса.",
+      "photo": "https://rci-c.com/wp-content/uploads/2019/06/633c628f46dbfda6e989f3763908abd9.jpg"
+    },
+    {
+      "name": "Датчики входа 'GuardianAlert'",
+      "installation_price": 3500,
+      "maintenance_price": 800,
+      "description": "Датчики GuardianAlert обеспечивают надежное обнаружение входа, обеспечивая дополнительный уровень безопасности для жилых и коммерческих объектов.",
+      "photo": "https://www.medicalalertcomparison.com/images/reviews/mgd/mg-classic-guardian.jpg"
+    },
+    {
+      "name": "Инвационная Смарт-система 'TechWatch'",
+      "installation_price": 6000,
+      "maintenance_price": 1200,
+      "description": "Инвационная Смарт-система TechWatch объединяет передовые технологии с простотой использования, обеспечивая всестороннюю защиту от вторжений.",
+      "photo": "https://cdn-images-1.medium.com/v2/resize:fit:1600/1*rhWt2N494_imuE_XNbbqfw.jpeg"
+    },
+    {
+      "name": "Камеры безопасности 'SafeGuardian 360'",
+      "installation_price": 5500,
+      "maintenance_price": 1100,
+      "description": "Камеры SafeGuardian 360 предоставляют панорамные виды и высокоразрешающие изображения, обеспечивая полный мониторинг больших площадей с минимальными слепыми зонами.",
+      "photo": "https://54rus.org/images/svoi_foto/vlast/raznoe/к.jpg"
+    },
+    {
+      "name": "Система контроля доступа 'SentinelPro'",
+      "installation_price": 7000,
+      "maintenance_price": 1300,
+      "description": "Система контроля доступа SentinelPro предоставляет передовые решения управления доступом, идеальные для обеспечения безопасности ограниченных зон в корпоративных средах.",
+      "photo": "https://aegistechnologies.com/wp-content/uploads/2019/04/security-access.jpg"
+    },
+    {
+      "name": "Система контроля доступа 'AccessGuard Pro'",
+      "installation_price": 4800,
+      "maintenance_price": 950,
+      "description": "AccessGuard Pro - современная система контроля доступа, обеспечивающая безопасность помещений и точный контроль входа с использованием передовых технологий.",
+      "photo": "https://c.76.my/Malaysia/diy-door-access-control-kit-power-supply-280kg-maganetic-lock-type-ii-szxenon-1802-20-SZXENON@10.jpg"
+    },
+    {
+      "name": "Умная система тревожной сигнализации 'SmartAlert'",
+      "installation_price": 5200,
+      "maintenance_price": 1050,
+      "description": "SmartAlert - умная система сигнализации, предоставляющая надежное оповещение о вторжении и обеспечивающая быструю реакцию на чрезвычайные ситуации.",
+      "photo": "https://www.izmirkamerasistemleri.com/wp-content/uploads/2018/04/alarm-sistemleri-min.jpg"
+    },
+  
+  
+    {
+      "name": "Беспроводные сенсорные датчики 'WirelessGuard'",
+      "installation_price": 4200,
+      "maintenance_price": 850,
+      "description": "WirelessGuard - сенсорные датчики безопасности с беспроводной связью, которые обеспечивают надежное обнаружение движения и входа.",
+      "photo": "https://avatars.mds.yandex.net/i?id=8fe0c595b08c62ffcef29c4a9e9df0eb9e350ff5-5588836-images-thumbs&n=13"
+    },
+    {
+      "name": "Система умного контроля 'SmartControl X'",
+      "installation_price": 6500,
+      "maintenance_price": 1250,
+      "description": "SmartControl X - современная система умного контроля с возможностями настройки, предоставляющая вам полный контроль и безопасность вашего дома или бизнеса.",
+      "photo": "https://slabo-tochka.by/wp-content/uploads/2021/02/klimat-kontrol-1.jpg"
+    },
+    {
+      "name": "Биометрическая система доступа 'BioAccess Pro'",
+      "installation_price": 5500,
+      "maintenance_price": 1100,
+      "description": "BioAccess Pro - передовая биометрическая система доступа, использующая уникальные биометрические данные для точного и безопасного контроля доступа.",
+      "photo": "https://avatars.mds.yandex.net/i?id=e2f1261f7b41da8d9207f181cc4189c91aa15adf-10749046-images-thumbs&n=13"
+    }
+    
+  ]
+  
